@@ -2,10 +2,19 @@
     background-color: #FFF4D4;
 }
 
+
+.letra16{
+	font-family: 'Raleway';
+	font-size:16px;
+	line-height:27px;
+	margin-bottom:25px;
+    color:#BF491F;
+}
+
 h1 {
   font-family: 'Tangerine', serif;
   font-size: 70px;
-  color: #74522B;
+  color:#BF491F;
 }
 
 .Letra8 {
@@ -16,13 +25,24 @@ h1 {
 
 .letra9{
     font-family: 'Raleway';
-    font-size: 16px;
+    font-size: 22px;
     color:#666;
 }
 
+.letra15{
+    font-family: 'Raleway';
+    font-size: 18px;
+    color:#666;
+}
+
+#save-date{
+	font-family: 'Great Vibes', cursive; 
+	font-size:54px;
+}
+
 .letra1 {
-  font-family: 'tangerine', serif;
-  font-size: 20px;
+  font-family: 'Raleway', serif;
+  font-size: 16px;
   color: #74522B;
 
 }
@@ -64,7 +84,7 @@ h1 {
 
   .leta10{
     font-family: 'Montserrat';
-    font-size: 150px;
+    font-size: 22px;
     color: #070707; 
     text-align: center;
     }
@@ -76,7 +96,7 @@ h1 {
 }
 
 .color2 {
-    background-color: #D3A94A ;
+    background-color: #BF491F ;
 }
 
 .color3 {
@@ -110,7 +130,7 @@ h1 {
 
 .chart h3{
     font-family: 'Montserrat', sans-serif;
-    color:#6D6D6C;
+    color:#BF491F;
     font-size: 1.8em;
     position: absolute;
     bottom:10px;
@@ -135,12 +155,12 @@ h1 {
     width: 100%;
     font-size: 3.8em;
     font-weight: 700;
-    color: #6D6D6C;
+    color: #BF491F;
 }
 /* SVG CIRCULO */
 .outer{
     fill:transparent;
-    stroke: #6D6D6C;
+    stroke: #BF491F;
     stroke-width: 10; /* grosor del borde */
     stroke-dasharray: 439; /* numero de relleno del borde, se usa el mismo valor en el script.js */
     transform: rotate(270deg) translate(-150px, 0); 
@@ -173,7 +193,7 @@ a.de-button, span.de-button, input[type=submit]{
 	margin:0 auto; 
 	margin-top:20px;
 	margin-right:10px; 
-	background-color:#666666 !important;
+	background-color:#BF491F !important;
 	color:#FFF;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:400;
@@ -183,13 +203,13 @@ a.de-button, span.de-button, input[type=submit]{
 
 
 a.de-button.outline, span.de-button.outline, input[type=submit].outline{
-	border:solid 1px #666666;
-	color:#666666;
+	border:solid 1px #BF491F;
+	color:#BF491F;
 }
 
 a.de-button:hover, input[type=submit]:hover{	
-	background-color:#666666;
-	border-color: #666666;
+	background-color:#BF491F;
+	border-color: #BF491F;
 	color:#FFF;
 	text-decoration:none;
 }
@@ -203,8 +223,8 @@ a.de-button.outline.dark-1, span.de-button.outline.dark-1, input[type=submit].ou
 }
 
 a.de-button.outline.dark-1:hover, span.de-button.outline.dark-1:hover, input[type=submit].outline.dark-1:hover{
-	background-color:#666666;
-	border-color: #666666;
+	background-color:#BF491F;
+	border-color: #BF491F;
 	color:#FFF;
 	text-decoration:none;
 }
@@ -214,7 +234,7 @@ a.de-button.outline.dark-1:hover, span.de-button.outline.dark-1:hover, input[typ
 
 a.de-button.light-1, span.de-button.light-1, input[type=submit].light-1{	
 	background-color:#FFF;
-	color:#666666;
+	color:#BF491F;
 	border:solid 1px #FFF;
 }
 
@@ -225,8 +245,8 @@ a.de-button.outline.light-1, span.de-button.outline.light-1, input[type=submit].
 }
 
 a.de-button.light-1:hover, input[type=submit].light-1:hover{
-	background-color:#666666;
-	border-color: #666666;
+	background-color:#BF491F;
+	border-color: #BF491F;
 	color:#FFF;
 	text-decoration:none;
 }
@@ -246,8 +266,8 @@ a.de-button.outline.light-2, span.de-button.outline.light-2, input[type=submit].
 }
 
 a.de-button.light-2:hover, input[type=submit].light-2:hover{
-	background-color:#666666;
-	border-color: #666666;
+	background-color:#BF491F;
+	border-color: #BF491F;
 	color:#FFF;
 	text-decoration:none;
 }

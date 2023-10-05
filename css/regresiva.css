@@ -5,7 +5,7 @@
 }
 
 body {
-	background: #EFEFEF;
+	background: #df683d;
 	color: #363639;
     font-family: 'Work Sans', sans-serif;
 }
@@ -15,7 +15,7 @@ body {
 /* ? ----- PORTADA ----- */
 .portada {
 	width: 100%;
-	background: #EFEFEF;
+	background: #BF491F;
 
 	min-height: 100vh;
 	position: fixed;
@@ -75,7 +75,7 @@ main {
 }
 
 .simply-section {
-	background: #fff;
+	background: #BF491F;
 	width: 180px;
 	height: 180px;
 	margin: 0 20px;
@@ -107,7 +107,7 @@ main {
 	display: inline-block;
 	min-width: 120px;
 	border-radius: 5px;
-	background: #FF0000;
+	background: #BF491F;
 	color: #fff;
 	font-size: 30px;
 	margin: 0 20px;
